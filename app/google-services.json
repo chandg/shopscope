@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205104411927",
+    "firebase_url": "https://shopscope-7071f.firebaseio.com",
+    "project_id": "shopscope-7071f",
+    "storage_bucket": "shopscope-7071f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205104411927:android:34655519a2d358b1",
+        "android_client_info": {
+          "package_name": "com.retail.shopscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205104411927-d7h663ok7n5tgb1882a8tdvkr8c7f6ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retail.shopscope",
+            "certificate_hash": "53c41fed3574b98a152fdeaeddbd59b7248c725e"
+          }
+        },
+        {
+          "client_id": "205104411927-6ignrhv8tbcikb5qa3eom6g72rj48tov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZZJrF9JqUa8LVve8_0DdgDFD1-3QDDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205104411927-6ignrhv8tbcikb5qa3eom6g72rj48tov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

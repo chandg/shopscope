@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShopScope</string>
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="password">Password</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="email">Email</string>
+    <string name="title_activity_user_signed_in_first">UserSignedInFirstActivity</string>
+    <string name="title_activity_account_setting">AccountSetting</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="prompt_email">Email</string>
+    <string name="current_password">Current Password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
